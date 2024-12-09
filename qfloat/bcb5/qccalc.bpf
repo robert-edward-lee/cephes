@@ -1,0 +1,10 @@
+USEUNIT("qccalc.c");
+USEUNIT("cmplx.c");
+USEUNIT("sqrt.c");
+USEUNIT("floor.c");
+USEUNIT("const.c");
+USELIB("qlib.lib");
+//---------------------------------------------------------------------------
+This file is used by the project manager only and should be treated like the project file
+
+main

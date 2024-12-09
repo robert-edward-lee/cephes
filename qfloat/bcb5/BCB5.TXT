@@ -1,0 +1,8 @@
+
+Borland C++ Builder 5 scripts
+
+Before running the build scripts, copy qhead16.h to qhead.h .
+
+Project options:  Advanced compiler -- lanuague compliance = ANSI
+                  Compiler -- warnings, turn off W8065, call to
+                  function 'function' with no prototype

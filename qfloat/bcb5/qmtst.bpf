@@ -1,0 +1,13 @@
+USEUNIT("qmtst.c");
+USEUNIT("ndtri.c");
+USEUNIT("sqrt.c");
+USEUNIT("log.c");
+USEUNIT("polevl.c");
+USEUNIT("const.c");
+USEUNIT("floor.c");
+USEUNIT("drand.c");
+USELIB("qlib.lib");
+//---------------------------------------------------------------------------
+This file is used by the project manager only and should be treated like the project file
+
+main

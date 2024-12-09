@@ -1,0 +1,21 @@
+USEUNIT("qcalc.c");
+USELIB("qlib.lib");
+USEUNIT("ndtri.c");
+USEUNIT("const.c");
+USEUNIT("exp.c");
+USEUNIT("floor.c");
+USEUNIT("gamma.c");
+USEUNIT("igam.c");
+USEUNIT("igami.c");
+USEUNIT("incbet.c");
+USEUNIT("incbi.c");
+USEUNIT("log.c");
+USEUNIT("polevl.c");
+USEUNIT("pow.c");
+USEUNIT("powi.c");
+USEUNIT("sin.c");
+USEUNIT("sqrt.c");
+//---------------------------------------------------------------------------
+This file is used by the project manager only and should be treated like the project file
+
+main
